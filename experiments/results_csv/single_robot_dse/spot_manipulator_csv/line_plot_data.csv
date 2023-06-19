@@ -1,0 +1,11 @@
+compute_resource_alloc,num_cycles_fproc,num_cycles_bproc,num_cycles_matmul
+1,159,104,174
+2,84,52,82
+3,60,36,66
+4,60,28,44
+5,60,24,20
+6,60,24,64
+7,60,24,26
+8,60,24,30
+9,60,24,62
+10,60,24,8

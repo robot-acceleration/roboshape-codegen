@@ -1,0 +1,412 @@
+../urdfs/iiwa_rbd_accel.urdf
+Link [world] does not have an origin. Assuming this is the fixed world base frame. Else there is an error with your URDF file.
+Link [world] does not have inertial properties. Assuming this is the fixed world base frame. Else there is an error with your URDF file.
+------------------------------------------
+Assumed Input Joint Configuration Ordering
+------------------------------------------
+lbr_iiwa_joint_1
+lbr_iiwa_joint_2
+lbr_iiwa_joint_3
+lbr_iiwa_joint_4
+lbr_iiwa_joint_5
+lbr_iiwa_joint_6
+lbr_iiwa_joint_7
+----------------------------
+# of links
+len_fproc_sched: 8
+len_bproc_sched: 8
+len_matmul_sched: 1
+total: 34
+----
+Longest chain
+len_fproc_sched: 8
+len_bproc_sched: 8
+len_matmul_sched: 1
+total: 34
+----
+Average leaf depth
+len_fproc_sched: 8
+len_bproc_sched: 8
+len_matmul_sched: 1
+total: 34
+----
+Max descendents
+len_fproc_sched: 8
+len_bproc_sched: 8
+len_matmul_sched: 1
+total: 34
+----
+optimal (unconstrained):
+7
+7
+7
+len_fproc_sched: 8
+len_bproc_sched: 8
+len_matmul_sched: 1
+total: 34
+----
+optimal (constrained):
+4
+7
+7
+446195.23250758
+4505.28000068
+len_fproc_sched: 11
+len_bproc_sched: 8
+len_matmul_sched: 1
+total: 43
+148877.40087472
+113822.83163272
+51106.00000013999
+1893.28
+2612.00000068
+----
+../urdfs/hyq_simple.urdf
+------------------------------------------
+Assumed Input Joint Configuration Ordering
+------------------------------------------
+lf_haa_joint
+lf_hfe_joint
+lf_kfe_joint
+lh_haa_joint
+lh_hfe_joint
+lh_kfe_joint
+rf_haa_joint
+rf_hfe_joint
+rf_kfe_joint
+rh_haa_joint
+rh_hfe_joint
+rh_kfe_joint
+----------------------------
+# of links
+len_fproc_sched: 13
+len_bproc_sched: 16
+len_matmul_sched: 1
+total: 57
+----
+Longest chain
+len_fproc_sched: 13
+len_bproc_sched: 16
+len_matmul_sched: 4
+total: 63
+----
+Average leaf depth
+len_fproc_sched: 13
+len_bproc_sched: 16
+len_matmul_sched: 4
+total: 63
+----
+Max descendents
+len_fproc_sched: 13
+len_bproc_sched: 16
+len_matmul_sched: 4
+total: 63
+----
+optimal (unconstrained):
+3
+3
+12
+len_fproc_sched: 13
+len_bproc_sched: 16
+len_matmul_sched: 1
+total: 57
+----
+optimal (constrained):
+3
+12
+3
+770992.6822164999
+4498.17260784
+len_fproc_sched: 13
+len_bproc_sched: 16
+len_matmul_sched: 1
+total: 57
+179443.91253653998
+305112.76967952
+154047.00000044
+1419.96
+3078.2126078399997
+----
+../urdfs/baxter_simple.urdf
+------------------------------------------
+Assumed Input Joint Configuration Ordering
+------------------------------------------
+head_pan
+right_s0
+right_s1
+right_e0
+right_e1
+right_w0
+right_w1
+right_w2
+left_s0
+left_s1
+left_e0
+left_e1
+left_w0
+left_w1
+left_w2
+----------------------------
+# of links
+len_fproc_sched: 16
+len_bproc_sched: 18
+len_matmul_sched: 1
+total: 68
+----
+Longest chain
+len_fproc_sched: 16
+len_bproc_sched: 18
+len_matmul_sched: 17
+total: 100
+----
+Average leaf depth
+len_fproc_sched: 17
+len_bproc_sched: 24
+len_matmul_sched: 17
+total: 109
+----
+Max descendents
+len_fproc_sched: 16
+len_bproc_sched: 18
+len_matmul_sched: 17
+total: 100
+----
+optimal (unconstrained):
+6
+7
+15
+len_fproc_sched: 16
+len_bproc_sched: 18
+len_matmul_sched: 1
+total: 68
+----
+optimal (constrained):
+3
+7
+8
+817113.64905346
+4272.841782240001
+len_fproc_sched: 21
+len_bproc_sched: 18
+len_matmul_sched: 1
+total: 83
+220115.42966484
+216478.21938792
+248131.0000007
+1419.96
+2852.88178224
+----
+handle_length_sweep/fork_12_6_3_3.urdf
+Link [world] does not have an origin. Assuming this is the fixed world base frame. Else there is an error with your URDF file.
+Link [world] does not have inertial properties. Assuming this is the fixed world base frame. Else there is an error with your URDF file.
+------------------------------------------
+Assumed Input Joint Configuration Ordering
+------------------------------------------
+joint_1
+joint_2
+joint_3
+joint_4
+joint_5
+joint_6
+joint_7_left
+joint_8_left
+joint_9_left
+joint_7_right
+joint_8_right
+joint_9_right
+----------------------------
+# of links
+len_fproc_sched: 13
+len_bproc_sched: 14
+len_matmul_sched: 1
+total: 55
+----
+Longest chain
+len_fproc_sched: 13
+len_bproc_sched: 24
+len_matmul_sched: 8
+total: 79
+----
+Average leaf depth
+len_fproc_sched: 13
+len_bproc_sched: 24
+len_matmul_sched: 8
+total: 79
+----
+Max descendents
+len_fproc_sched: 13
+len_bproc_sched: 14
+len_matmul_sched: 1
+total: 55
+----
+optimal (unconstrained):
+9
+12
+12
+len_fproc_sched: 13
+len_bproc_sched: 14
+len_matmul_sched: 1
+total: 55
+----
+optimal (constrained):
+5
+7
+6
+763491.6365410599
+4752.4333338
+len_fproc_sched: 20
+len_bproc_sched: 24
+len_matmul_sched: 1
+total: 86
+299073.1875609
+177982.44897972
+154047.00000044
+2366.6
+2385.8333338
+----
+tine_length_sweep/arm_3_fingers_15_6_3_3_3.urdf
+Link [world] does not have an origin. Assuming this is the fixed world base frame. Else there is an error with your URDF file.
+Link [world] does not have inertial properties. Assuming this is the fixed world base frame. Else there is an error with your URDF file.
+------------------------------------------
+Assumed Input Joint Configuration Ordering
+------------------------------------------
+joint_1
+joint_2
+joint_3
+joint_4
+joint_5
+joint_6
+joint_7
+joint_8
+joint_9
+joint_10
+joint_11
+joint_12
+joint_13
+joint_14
+joint_15
+----------------------------
+# of links
+len_fproc_sched: 16
+len_bproc_sched: 18
+len_matmul_sched: 1
+total: 68
+----
+Longest chain
+len_fproc_sched: 16
+len_bproc_sched: 28
+len_matmul_sched: 8
+total: 92
+----
+Average leaf depth
+len_fproc_sched: 16
+len_bproc_sched: 28
+len_matmul_sched: 8
+total: 92
+----
+Max descendents
+len_fproc_sched: 16
+len_bproc_sched: 18
+len_matmul_sched: 1
+total: 68
+----
+optimal (unconstrained):
+9
+15
+15
+len_fproc_sched: 16
+len_bproc_sched: 18
+len_matmul_sched: 1
+total: 68
+----
+optimal (constrained):
+4
+4
+15
+797709.07920406
+4722.4671224
+len_fproc_sched: 27
+len_bproc_sched: 56
+len_matmul_sched: 1
+total: 139
+293487.23955312
+123701.83965024
+248131.0000007
+1893.28
+2829.1871224
+----
+quadruped_manip_length_sweep/quadruped_manip_19_7_3_3_3_3.urdf
+Link [world] does not have an origin. Assuming this is the fixed world base frame. Else there is an error with your URDF file.
+Link [world] does not have inertial properties. Assuming this is the fixed world base frame. Else there is an error with your URDF file.
+------------------------------------------
+Assumed Input Joint Configuration Ordering
+------------------------------------------
+joint_1
+joint_2
+joint_3
+joint_4
+joint_5
+joint_6
+joint_7
+joint_8
+joint_9
+joint_10
+joint_11
+joint_12
+joint_13
+joint_14
+joint_15
+joint_16
+joint_17
+joint_18
+joint_19
+----------------------------
+# of links
+len_fproc_sched: 20
+len_bproc_sched: 24
+len_matmul_sched: 1
+total: 86
+----
+Longest chain
+len_fproc_sched: 20
+len_bproc_sched: 24
+len_matmul_sched: 9
+total: 102
+----
+Average leaf depth
+len_fproc_sched: 20
+len_bproc_sched: 28
+len_matmul_sched: 27
+total: 142
+----
+Max descendents
+len_fproc_sched: 20
+len_bproc_sched: 24
+len_matmul_sched: 9
+total: 102
+----
+optimal (unconstrained):
+3
+5
+19
+len_fproc_sched: 20
+len_bproc_sched: 24
+len_matmul_sched: 1
+total: 86
+----
+optimal (constrained):
+2
+2
+10
+803083.35466602
+1912.0087684
+len_fproc_sched: 28
+len_bproc_sched: 52
+len_matmul_sched: 1
+total: 138
+182896.07944616
+76515.97521872
+411282.30000114
+946.64
+965.3687684000001
+----

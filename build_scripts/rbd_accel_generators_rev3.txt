@@ -1,0 +1,38 @@
+#../generators/hdl/verilog/rev3/bproc/rneabpx.py
+#../generators/hdl/verilog/rev3/bproc/dqdbpijx.py
+#../generators/hdl/verilog/rev3/bproc/bproc.py
+#../generators/hdl/verilog/rev3/bproc/dqbpijx.py
+#../generators/hdl/verilog/rev3/common/xgens.py
+#../generators/hdl/verilog/rev3/common/xtdotminv.py
+#../generators/hdl/verilog/rev3/common/xdot.py
+#../generators/hdl/verilog/rev3/common/xgenpXc.py
+#../generators/hdl/verilog/rev3/common/xtdot.py
+#../generators/hdl/verilog/rev3/common/idots.py
+#../generators/hdl/verilog/rev3/fproc/dqfpijx.py
+#../generators/hdl/verilog/rev3/fproc/dqfpijx_seq.py
+#../generators/hdl/verilog/rev3/fproc/dqfpijxfold.py
+#../generators/hdl/verilog/rev3/fproc/dqdfpijx.py
+#../generators/hdl/verilog/rev3/fproc/dqdfpijx_seq.py
+#../generators/hdl/verilog/rev3/fproc/rneafpxfold.py
+#../generators/hdl/verilog/rev3/fproc/fproc.py
+#../generators/hdl/verilog/rev3/fproc/dqdfpijxfold.py
+#../generators/hdl/verilog/rev3/fproc/rneafpx.py
+../generators/PackagedCode/bluespec/GradientPipeline.py
+../generators/PackagedCode/bluespec/GradientPipelineBprocDfUpdFlush.py
+../generators/PackagedCode/bluespec/GradientPipelineBprocDtauUpdateUnrolling.py
+../generators/PackagedCode/bluespec/GradientPipelineBprocMatmulFirstInputUnrolling.py
+../generators/PackagedCode/bluespec/GradientPipelineBprocMatmulInputUnrolling.py
+../generators/PackagedCode/bluespec/GradientPipelineBprocMatmulOutputUnrolling.py
+../generators/PackagedCode/bluespec/GradientPipelineBprocRules.py
+../generators/PackagedCode/bluespec/GradientPipelineBprocSchedUnrolling.py
+../generators/PackagedCode/bluespec/GradientPipelineFprocDvDaFlush.py
+../generators/PackagedCode/bluespec/GradientPipelineFprocIntermediateMuxUnrolling.py
+../generators/PackagedCode/bluespec/GradientPipelineFprocRules.py
+../generators/PackagedCode/bluespec/GradientPipelineFprocSchedUnrolling.py
+../generators/PackagedCode/bluespec/GradientPipelineTypes.py
+# these have been commented out because every time you change and push these,
+# the bluespec compiler takes 2+ hours to compile them.
+# uncomment them only if there are changes to the top-level fproc.v or bproc.v
+# port interfaces.
+#../generators/PackagedCode/bluespec/BviIfcFProc_rev1.py
+#../generators/PackagedCode/bluespec/BviIfcBProc_rev2.py

@@ -1,0 +1,12 @@
+lh_tile_sched
+PE1,PE2
+0,0
+rh_tile_sched
+PE1,PE2
+0,0
+output_tile_incr_sched
+PE1,PE2
+0,0
+rh_tile_col_sched
+PE1,PE2
+0,1

@@ -1,0 +1,20 @@
+SWSOCK0
+build/
+*.swp
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# debug files
+t.txt
+t2.txt
+t3.txt
+
+# compiled files
+*.exe
+*.pyc
+
+# IDE files
+.idea/

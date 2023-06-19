@@ -1,0 +1,5 @@
+swept_value,num_fproc_PEs,num_bproc_PEs,block_size,single_compute_time_cycles
+1,7,6,9,54
+2,7,6,6,82
+3,7,6,8,114
+4,7,6,9,133

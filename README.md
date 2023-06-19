@@ -3,16 +3,6 @@
 This is the hardware code generator associated with [our paper](https://dl.acm.org/doi/10.1145/3579371.3589104)
 "RoboShape: Using Topology Patterns to Scalably and Flexibly Deploy Accelerators Across Robots"
 from ISCA 2023.
-
-Updated 06/19/2023:
-
-The README below is outdated from a previous internal version, but will be
-updated with build and simulation instructions in the next few days! Meanwhile, feel free to browse our Python scripts
-for generating the Verilog code for the dynamics gradient accelerator
-in `generators/`.
-
-
-If you found this repo useful, please consider citing our work:
 ```
 @inproceedings{10.1145/3579371.3589104,
 author = {Neuman, Sabrina M. and Ghosal, Radhika and Bourgeat, Thomas and Plancher, Brian and Reddi, Vijay Janapa},
@@ -30,6 +20,13 @@ location = {Orlando, FL, USA},
 series = {ISCA '23}
 }
 ```
+
+Updated 06/19/2023:
+
+The README below is outdated from a previous internal version, but will be
+updated with build and simulation instructions in the next few days! Meanwhile, feel free to browse our Python scripts
+for generating the Verilog code for the dynamics gradient accelerator
+in `generators/`.
 
 ---
 
